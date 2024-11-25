@@ -68,6 +68,8 @@
     "@dcloudio/uni-stacktracey": "^2.0.2-4020420240722004",
     "@dcloudio/uni-stat": "^2.0.2-4020420240722004",
     "@vue/shared": "^3.0.0",
+    "autoprefixer": "^10.4.20",
+    "canvas": "^2.11.2",
     "core-js": "^3.8.3",
     "flyio": "^0.6.2",
     "vue": ">= 2.6.14 < 2.7",
